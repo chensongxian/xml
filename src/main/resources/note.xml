@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<notes> 
+  <note> 
+    <to test="1">sz</to>  
+    <售价>19元</售价>
+    <from>Jani</from>  
+    <heading>Reminder</heading>  
+    <body>Don't forget me this weekend!</body>  
+    <name name="yyyyyyy">名称</name>  
+    <price>59元</price>
+      <user username="cc" password="1234">cc</user>
+  </note> 
+</notes>
